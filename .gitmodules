@@ -1,0 +1,6 @@
+[submodule "components/libesphttpd"]
+	path = components/libesphttpd
+	url = https://github.com/PocketSprite/libesphttpd.git
+[submodule "8bkc-sdk/esp-idf"]
+	path = 8bkc-sdk/esp-idf
+	url = https://github.com/espressif/esp-idf.git

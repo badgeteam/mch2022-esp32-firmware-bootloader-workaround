@@ -1,0 +1,3 @@
+build/
+appfs-files/*
+xtensa-esp32-elf
